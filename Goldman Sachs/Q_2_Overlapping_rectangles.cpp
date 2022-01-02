@@ -1,4 +1,4 @@
-// User function Template for C++
+// Overlapping rectangles
 
 class Solution {
   public:
@@ -11,5 +11,3 @@ class Solution {
         return 1;
     }
 };
-
-// { Driver Code Starts.
