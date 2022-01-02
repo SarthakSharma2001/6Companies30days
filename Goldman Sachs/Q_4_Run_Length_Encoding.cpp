@@ -1,3 +1,4 @@
+// Run Length Encoding
 string encode(string src)
 { 
     string ans; ans.push_back(src[0]); int c=1;
