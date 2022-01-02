@@ -1,3 +1,4 @@
+// Ugly Numbers
 class Solution{
 public:	
 	ull getNthUglyNo(int n) {
